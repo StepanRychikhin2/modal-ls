@@ -6,8 +6,8 @@ import Timer from "./components/Timer"
 function App() {
   return (
     <>
-    <h1>app</h1>
-    <Timer></Timer>
+    <h1>List User info</h1>
+    {/* <Timer></Timer> */}
     <Modal></Modal>
     
     </>
